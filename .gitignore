@@ -1,0 +1,35 @@
+# Pastas geradas pelo build
+bin/
+obj/
+out/
+[Bb]uild/
+[Pp]ublish/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# Rider
+.idea/
+
+# Variáveis de ambiente e segredos
+appsettings.Development.json
+appsettings.Local.json
+.env
+.env.*
+*.pfx
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs e bancos locais
+*.log
+*.db
+*.sqlite
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

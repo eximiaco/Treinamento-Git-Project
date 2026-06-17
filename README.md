@@ -6,6 +6,12 @@ API .NET mínima usada como apoio prático no treinamento **Git: do zero ao flux
 
 ## O que tem aqui
 
+
+
+
+
+
+
 Uma Web API ASP.NET Core (.NET 9) com **um único endpoint**:
 
 ```

@@ -6,7 +6,7 @@ var app = builder.Build();
 // A simplicidade é proposital: o foco da Trilha 1 é o fluxo Git, não o código.
 app.MapGet("/hello", () => new
 {
-    message = "Hello, World!",
+    message = "Hello, Tramontina!",
     project = "Treinamento-Git-Project",
     track   = "Trilha 1 — Git: do zero ao fluxo diário"
 });

@@ -7,7 +7,7 @@ var app = builder.Build();
 app.MapGet("/hello", () => new
 {
     message = "Hello, Tramontina!",
-    project = "Treinamento-Git-Project",
+    project = "Treinamento-Tramontina-Git",
     track   = "Trilha 1 — Git: do zero ao fluxo diário"
 });
 
